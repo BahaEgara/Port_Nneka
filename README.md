@@ -1,73 +1,30 @@
-# Welcome to your Lovable project
+# 🎬 Photographer & Filmmaker Portfolio
 
-## Project info
+Welcome to the portfolio website of **[Your Brother’s Name]** — a storyteller behind the lens. This platform showcases his journey as a **photographer and filmmaker**, highlighting projects that range from experimental visual art to professional music videos.  
 
-**URL**: https://lovable.dev/projects/8fe87b48-b687-44b2-b42b-4e7fcfca3740
+The website serves as both a creative gallery and a living archive of his work — a space where visuals meet narrative.  
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## ✨ Features
 
-**Use Lovable**
+- 📸 **Photography Collections**  
+  - *Flour Photography* — transforming texture and dust into striking visual art.  
+  - *Ndege (Airplane)* — capturing the grace, power, and emotion of flight.  
+  - *Together Positiveness* — celebrating unity, optimism, and connection.  
+  - *Project Unknown* — an exploration of mystery, ambiguity, and curiosity.  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8fe87b48-b687-44b2-b42b-4e7fcfca3740) and start prompting.
+- 🎥 **Film Projects**  
+  - *Ekehenda Mwoyo: The Battle Within* — an intimate exploration of inner struggles.  
+  - *Losin U Cover Shoot (Documentary)* — behind the scenes of music-art collaboration.  
+  - *King of the West Freestyle* — a raw and rhythmic freestyle performance.  
+  - *Losin U (Music Video)* — a cinematic expression of love, loss, and identity.  
 
-Changes made via Lovable will be committed automatically to this repo.
+- 🖥️ **Modern Design**  
+  - Responsive and mobile-friendly layout.  
+  - Clean navigation for easy browsing of projects.  
+  - Integrated metadata for social sharing (OpenGraph + Twitter cards).  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/8fe87b48-b687-44b2-b42b-4e7fcfca3740) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
