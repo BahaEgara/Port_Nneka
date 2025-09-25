@@ -9,9 +9,8 @@ const Navigation = () => {
   const navItems = [
     { path: '/', label: 'Home' },
     { path: '/about', label: 'About' },
-    { path: '/#gallery', label: 'Gallery' },
-    // { path: '/#films', label: 'Films' },
-    // { path: '/#services', label: 'Services' },
+    // { path: '/gallery', label: 'Gallery' },
+  
   ];
 
   const handleNavClick = (path: string) => {
